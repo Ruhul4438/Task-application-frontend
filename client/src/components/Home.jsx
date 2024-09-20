@@ -3,6 +3,7 @@ import Navbar from './Navbar'
 import SocialmediaTask from './SocialmediaTask'
 import BottomNavbar from './BottomNavbar'
 
+
 export default function Home() {
   return (
     <div>
