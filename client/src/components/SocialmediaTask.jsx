@@ -2,7 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSackDollar, faWallet, faShare } from '@fortawesome/free-solid-svg-icons';
 import DifferentSocialmedia from "./DifferentSocialmedia";
-
+import rimg from "../image/Rimg.jpg"
 
 export default function () {
   return (
@@ -17,6 +17,10 @@ export default function () {
             />
             Taskplanet. Get 10 Points on every referrals
           </span>
+          <div className="border border-red-500">
+          <img className="w-11 h-11 mr-7" src={rimg} alt="" />
+
+          </div>
         </div>
       </div>
       <div className="max-w-2xl mx-auto mt-5 flex gap-6 px-4 ">

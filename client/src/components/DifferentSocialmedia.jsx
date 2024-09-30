@@ -35,7 +35,7 @@ export default function DifferentSocialmedia() {
           className="w-16 h-16  "  
         />
         <span className="text-base font-medium text-center">
-          Instagram
+          Instagram ksajja
         </span>
         <span className='absolute -top-3 right-0 text-sm bg-red-500 border px-3 rounded-xl'>50+</span>
       </div>
